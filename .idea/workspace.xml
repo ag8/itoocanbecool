@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cd4191d-e3b3-42d4-ab70-f11b6377f865" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/ag8/itoocanbecool/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cool.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/ag8/itoocanbecool/Main.java" afterPath="$PROJECT_DIR$/src/org/ag8/itoocanbecool/Main.java" />
     </list>
     <ignored path="itoocanbecool.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,14 +26,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/ag8/itoocanbecool/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30981067">
-              <caret line="9" column="101" selection-start-line="9" selection-start-column="95" selection-end-line="9" selection-end-column="101" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cool.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cool.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -57,6 +69,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/org/ag8/itoocanbecool/Main.java" />
+        <option value="$PROJECT_DIR$/cool.txt" />
       </list>
     </option>
   </component>
@@ -506,11 +519,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/ag8/itoocanbecool/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30981067">
-          <caret line="9" column="101" selection-start-line="9" selection-start-column="95" selection-end-line="9" selection-end-column="101" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cool.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>

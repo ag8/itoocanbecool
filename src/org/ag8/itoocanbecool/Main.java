@@ -4,6 +4,12 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/*
+git add .
+git commit -m "Another commit to look cool"
+git push
+ */
+
 public class Main {
     public static void main(String[] args) throws IOException {
         ProcessBuilder builder = new ProcessBuilder(
