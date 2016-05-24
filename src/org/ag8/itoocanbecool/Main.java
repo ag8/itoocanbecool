@@ -15,7 +15,14 @@ git push
 public class Main {
     static Random rand = new Random();
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException, InterruptedException {
+        while(true) {
+            commit();
+            Thread.sleep(10000);
+        }
+    }
+
+    private static void commit() throws IOException {
         makeFileCooler();
 
         ProcessBuilder builder = new ProcessBuilder(
