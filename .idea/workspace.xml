@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cd4191d-e3b3-42d4-ab70-f11b6377f865" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cool.txt" afterPath="$PROJECT_DIR$/cool.txt" />
-    </list>
+    <list default="true" id="4cd4191d-e3b3-42d4-ab70-f11b6377f865" name="Default" comment="" />
     <ignored path="itoocanbecool.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -68,8 +66,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/org/ag8/itoocanbecool/Main.java" />
         <option value="$PROJECT_DIR$/cool.txt" />
+        <option value="$PROJECT_DIR$/src/org/ag8/itoocanbecool/Main.java" />
       </list>
     </option>
   </component>
