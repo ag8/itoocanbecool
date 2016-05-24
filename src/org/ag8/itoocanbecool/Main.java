@@ -49,7 +49,7 @@ public class Main {
             writer.print("");
             writer.close();
         } else {
-            FileUtils.writeStringToFile(new File("cool.txt"), "a", true);
+            FileUtils.writeStringToFile(new File("cool.txt"), "\na", true);
         }
     }
 
