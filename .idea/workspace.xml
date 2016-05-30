@@ -38,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/cool.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="976" column="1" selection-start-line="976" selection-start-column="1" selection-end-line="976" selection-end-column="1" />
+              <caret line="2146" column="1" selection-start-line="2146" selection-start-column="1" selection-end-line="2146" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -462,7 +462,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -540,7 +540,7 @@
     <entry file="file://$PROJECT_DIR$/cool.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="976" column="1" selection-start-line="976" selection-start-column="1" selection-end-line="976" selection-end-column="1" />
+          <caret line="2146" column="1" selection-start-line="2146" selection-start-column="1" selection-end-line="2146" selection-end-column="1" />
           <folding />
         </state>
       </provider>
